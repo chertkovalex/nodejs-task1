@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chertkovalex/nodejs-task1/issues"
   },
-  "homepage": "https://github.com/chertkovalex/nodejs-task1#readme"
+  "homepage": "https://github.com/chertkovalex/nodejs-task1#readme",
+  "dependencies" : {
+    "validator": "^5.2.0"
+  }
 }
